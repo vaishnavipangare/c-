@@ -95,13 +95,7 @@ Algorithm:
 Initialize a counter from 0.
 Run the loop till counter < 5.
 Print "SIT" in each iteration.
-Output:
 
-SIT
-SIT
-SIT
-SIT
-SIT
 2. Print Even numbers from 0 to 10
 Theory: Uses conditional logic and controlled incrementing inside the loop and printseven numbers from 0 to 10.
 
@@ -111,14 +105,7 @@ Start a counter from 0.
 Run loop until counter <= 10.
 Print counter if even.
 Increment by 2 each iteration.
-Output:
 
-0
-2
-4
-6
-8
-10
 3. Validating password from user by while loop.(a working login page)
 Theory: This program demonstrates user input validation and multiple loop exits by taking input from user validating via "if condition" .
 
@@ -136,7 +123,6 @@ Forgot Password
 Exit
 Proceed based on user's choice.
 
-Output:
 
 Welcome to MOODLE software.
 Enter your PRN (numbers only): 24070123069
@@ -180,16 +166,7 @@ Algorithm:
 Outer loop runs 2 times.
 Inner loop runs 3 times per outer loop iteration.
 Print values of outer and inner loop counters.
-Output:
 
-Outer:1
-Inner:1
-Inner:2
-Inner:3
-Outer:2
-Inner:1
-Inner:2
-Inner:3
 6.Printing Left Aligned Star pattern
 Theory: Builds a basic triangle shape using stars and prints them left aligned .
 
@@ -209,13 +186,7 @@ Algorithm:
 
 Outer loop for rows from 1 to 5.
 Inner loop prints * equal to current row number.
-Output:
 
-*
-**
-***
-****
-*****
 7. Printing Right Aligned Star pattern
 Theory: Combines spacing and star printing for alignment and aligns pattern right side.
 
@@ -224,13 +195,7 @@ Algorithm:
 Outer loop for rows.
 First inner loop prints spaces.
 Second inner loop prints stars.
-Output:
 
-    *
-   **
-  ***
- ****
-*****
 8. Floyds Series
 Theory: This program prints numbers in ascending order as per the series each in new line using nested for loop.
 
@@ -239,12 +204,7 @@ Algorithm:
 Use nested loops.
 Keep a counter starting from 1.
 For each row, print increasing numbers.
-Output:
 
-1
-2 3
-4 5 6
-7 8 9 10
 9. HourglassPattern.cpp
 Theory: This program prints a symmetric hourglass pattern with the help of teo for loops each used to print the upward and downward triangle respectively.
 
@@ -256,17 +216,7 @@ Print spaces then stars.
 Second loop for increasing rows:
 
 Print spaces then stars.
-Output:
 
-* * * * *
- * * * *
-  * * *
-   * *
-    *
-   * *
-  * * *
- * * * *
-* * * * *
 
 
 
