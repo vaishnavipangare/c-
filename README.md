@@ -193,6 +193,18 @@ Inner:3
 6.Printing Left Aligned Star pattern
 Theory: Builds a basic triangle shape using stars and prints them left aligned .
 
+
+
+
+
+
+
+
+
+
+
+
+
 Algorithm:
 
 Outer loop for rows from 1 to 5.
@@ -255,5 +267,10 @@ Output:
   * * *
  * * * *
 * * * * *
+
+
+
+
+
 Conclusion
 Loops form the backbone of repetitive logic in C++ and are used in everything from simple pattern generation to real-world applications like authentication systems. Understanding their behavior, syntax, and flow helps in writing efficient and structured programs. This collection of loop programs demonstrates a range of use cases to help strengthen conceptual clarity and hands-on coding skills.
